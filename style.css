@@ -85,6 +85,10 @@ nav ul li a:hover::after{
     padding: 60px 0;
     color: #344648;
 }
+.video{
+    width: 500px;
+    height: 281px;
+}
 .row{
     display: flex;
     justify-content: space-between;
