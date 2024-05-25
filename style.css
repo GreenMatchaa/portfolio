@@ -85,6 +85,9 @@ nav ul li a:hover::after{
     padding: 60px 0;
     color: #344648;
 }
+.content-container{
+    display: flex;
+}
 .video{
     width: 500px;
     height: 281px;
