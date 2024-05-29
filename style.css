@@ -135,11 +135,12 @@ nav ul li a:hover::after{
     display: flex;
     justify-content: space-between;
     margin-left: 40px;
-    font-size: 35px;
+    font-size: 60px;
     color: #401201;
 }
 .super-subtitle{
     margin-left: 40px;
+    font-size: 40px;
     color: #401201;
 }
 .gallery_container{
