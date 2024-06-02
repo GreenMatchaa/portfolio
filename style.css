@@ -114,9 +114,6 @@ nav ul li a:hover::after{
 .About-col-2{
     flex-basis: 60%;
 }
-.video-container-about{
-    margin-left: 20%;
-}
 .subtitle{
     font-size: 60px;
     font-weight: 600;
