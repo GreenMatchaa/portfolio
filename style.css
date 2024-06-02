@@ -79,6 +79,15 @@ nav ul li a:hover::after{
 .header-text h1 span{
     color: #BF6B04;
 }
+.video-container{
+    margin-top: 20%;
+    width: 50%;
+}
+.video{
+    margin-top: -100px;
+    width: 640px;
+    height: 360px;
+}
 
 /* -------------about---------------- */
 #About{
@@ -106,7 +115,7 @@ nav ul li a:hover::after{
 
 }
 .About-col-1 img{
-    margin-left: -65px;
+    margin-left: -100px;
     width: 100%;
     border-radius: 15px;
 }
